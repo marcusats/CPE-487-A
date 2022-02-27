@@ -7,4 +7,4 @@ Open Vivado and create VHDL projects to synthesize, implement, generate bitstrea
 
 #### Program Outcome 6: (*Experimentation*)
 
-1.3 The student will be able to represent and document designs, perform simulations and synthesize implementations using software tools provided by an FPGA vendor.
+The student will be able to represent and document designs, perform simulations and synthesize implementations using software tools provided by an FPGA vendor.
