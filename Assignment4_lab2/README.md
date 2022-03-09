@@ -9,4 +9,6 @@ Program Outcome 1: (*Complex Problem Solving*)
 
 2.3 The student will be able to develop VHDL models of systems using behavioral, structural, and dataflow concepts to describe the internal behavior and/or structure of the design.
 
+![hexcounter.gif](https://github.com/kevinwlu/dsd/blob/master/Nexys-A7/Lab-2/hexcounter.gif)
+
 
