@@ -9,4 +9,4 @@ Program Outcome 2: (*Design*)
 
 2.4 The student will be able to use VHDL to design complex synthesizable state machines using Mealy and/or Moore architectures.
 
-![hexcalc IMAGE](./hexcalc.jpg)
+<img src="hexcalc.jpg" alt="drawing" width="200"/>
