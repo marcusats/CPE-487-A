@@ -6,7 +6,7 @@ For this week I focused in gathering data and define the process for the next we
 
 ## Week 2
 
-Focused in reviewing the pong implementation in [Lab 6] (https://github.com/marcusats/CPE-487-A/tree/main/Assignment5_lab3%266/Lab6) and recognize improvement opportunities 
+Focused in reviewing the pong implementation in [Lab 6](https://github.com/marcusats/CPE-487-A/tree/main/Assignment5_lab3%266/Lab6) and recognize improvement opportunities 
 
 ## Week 3
 
