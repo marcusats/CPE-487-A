@@ -23,5 +23,5 @@ Enhanced the pong game to support another player and change colors. At this poin
 ## Google Site
 [Link](https://sites.google.com/stevens.edu/finalprojectcpe-487/home)
 
-<img src="site.png" alt="drawing" width="300"/>
+<img src="site.png" alt="drawing" width="600"/>
 
