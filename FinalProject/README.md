@@ -1,5 +1,7 @@
 # Final Project - CPE-487-A
 
+<img src="IMG-2747.jpg" alt="drawing" width="300"/>
+
 ## Week 1
  
 For this week I focused in gathering data and define the process for the next weeks. I wanted to review the VHDL material for the class, to familiarize myself with some lower level hardware programming skills
